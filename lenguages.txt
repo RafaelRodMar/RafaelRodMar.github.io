@@ -1,0 +1,122 @@
+bash
+c
+clojure
+cpp
+c#
+d
+dart
+f#
+go
+groovy
+haskell
+java
+javascript
+kotlin
+lua
+objetiveC
+ocaml
+pascal
+perl
+php
+python
+ruby
+rust
+scala
+swift
+typescript
+vbnet
+racket
+erlang
+elixir
+
+=======
+by popularity
+=======
+JavaScript 	65.36%
+HTML/CSS 	55.08%
+SQL 	49.43%
+Python 	48.07%
+TypeScript 	34.83%
+Java 	33.27%
+Bash/Shell 	29.07%
+C# 	27.98%
+C++ 	22.55%
+PHP 	20.87%
+C 	19.27%
+PowerShell 	12.07%
+Go 	11.15%
+Rust 	9.32%
+Kotlin 	9.16%
+Dart 	6.54%
+Ruby 	6.05%
+Assembly 	5.47%
+Swift 	4.91%
+R 	4.66%
+VBA 	4.48%
+MATLAB 	4.1%
+Lua 	4.03%
+Groovy 	3.32%
+Delphi 	3.25%
+Scala 	2.59%
+Objective-C 	2.39%
+Perl 	2.31%
+Haskell 	2.22%
+Elixir 	2.15%
+Julia 	1.53%
+Clojure 	1.51%
+Solidity 	1.45%
+LISP 	1.31%
+F# 	1.03%
+Fortran 	0.91%
+Erlang 	0.9%
+APL 	0.71%
+COBOL 	0.65%
+SAS 	0.61%
+OCaml 	0.59%
+Crystal 	0.48% 
+
+=======
+by pay
+=======
+Clojure 	$106,644
+Erlang 	$103,000
+F# 	$95,526
+LISP 	$95,000
+Ruby 	$93,000
+Elixir 	$92,959
+Scala 	$92,780
+Perl 	$90,073
+Go 	$89,204
+Rust 	$87,047
+OCaml 	$86,948
+Groovy 	$85,320
+Crystal 	$84,690
+Objective-C 	$83,165
+Bash/Shell 	$81,666
+Haskell 	$80,250
+Fortran 	$80,000
+Lua 	$79,568
+Swift 	$78,468
+PowerShell 	$78,084
+Julia 	$77,966
+APL 	$75,932
+COBOL 	$75,592
+Assembly 	$75,000
+Python 	$71,105
+Solidity 	$70,368
+TypeScript 	$70,276
+C# 	$69,516
+Kotlin 	$69,318
+SQL 	$69,108
+C++ 	$68,000
+R 	$67,734
+C 	$67,186
+JavaScript 	$65,580
+Java 	$64,572
+SAS 	$64,243
+Delphi 	$63,984
+HTML/CSS 	$63,984
+VBA 	$62,328
+MATLAB 	$57,588
+PHP 	$50,496
+Dart 	$43,724 
