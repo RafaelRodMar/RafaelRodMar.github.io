@@ -1,3 +1,32 @@
+﻿soportados por leetcode:
+se ven 10:
+c++
+java
+python3
+javascript
+c#
+c
+php
+go
+scala
+ruby
+
+no se ven:
+python
+swift
+typescript
+kotlin
+mysql
+ms sql server
+oracle
+bash
+rust
+racket
+erlang
+elixir
+dart
+
+
 España (más demandados)
 java
 python
